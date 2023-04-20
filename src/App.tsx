@@ -1,4 +1,3 @@
-import { useState } from "react";
 import "./App.css";
 import QrCodeCard from "./components/qr-code-card/qr-code-card.component";
 
